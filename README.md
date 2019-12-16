@@ -1,0 +1,2 @@
+# Bash-Script-for-Linux-Distribution
+Este é o meu primeiro projeto. Nesse projeto eu pretendo mostrar o meu pequeno programinha de pós instalação para a distribuição Linux Fedora ou outra. É um projeto bem simples que não é feito para usuários iniciantes, pois são Scripts que interagem diretamente com o Terminal do Linux. Para utilizar corretamente, baixe-o e dê ao Script permissões de execução (chmod +x example.sh).
