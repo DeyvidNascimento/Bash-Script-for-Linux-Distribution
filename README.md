@@ -14,4 +14,4 @@ Fica a seu critério. Porém, é louvável que você escreva novos códigos base
 Bom, é simples. Para utilizar corretamente, baixe-o e dê ao Script permissões de execução *(chmod +x example.sh)*. Para isso, você terá que acessar o seu terminal e ir até a pasta que contém o arquivo. *(cd /home/example/Downloads/)*. EStando na pasta correta e após atribuir ao arquivo permissões de execução, apenas digite o ponto e barra (./) e em seguida o nome do arquivo *example.sh.* Ou seja *./example.sh.*
 
 # Como entrar em contato?
-Basta me enviar uma mensagem em deyvid.nascimento777@gmail.com
+Basta me enviar uma mensagem em deyvid.nascimento777@gmail.com ou me contatar no whattsapp: 55+ 81 986672014
